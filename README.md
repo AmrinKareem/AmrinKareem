@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m an AI research student who has just made a switch from a completely different domain. I'm trying to navigate the machine learning space and looking for help from anyone who can offer guidance.
+🌱 I’m an AI research student who has just made a switch from a different domain. I'm trying to navigate the machine learning space and looking for help from anyone who can offer guidance.
 - 💬 Ask me about:
   - Automotive communication protocols 
   - SEO 
