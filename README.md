@@ -1,9 +1,9 @@
 ### Hi there 👋
 🌱 I’m an AI research student who has just made a switch from a different domain. I'm trying to navigate the machine learning space and looking for help from anyone who can offer guidance.
 - 💬 Ask me about:
-  - Automotive communication protocols 
-  - SEO 
-  - Blogging
+  - Recommendation Systems 
+  - Machine Learning Algorithms 
+  - Math and Statistics
 - 📫 How to reach me: 
   - Email: kareemamrin9@gmail.com
 <!--
