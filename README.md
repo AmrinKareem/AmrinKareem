@@ -1,7 +1,10 @@
 ### Hi there 👋
-🌱 I’m an AI research student who has just made a switch from a different domain. I'm trying to navigate the machine learning space and looking for help from anyone who can offer guidance.
+🌱 I’m an AI research student at Mohamed bin Zayed University of Artificial Intelligence. 
 - 💬 Ask me about:
   - Recommendation Systems 
+  - Domain Adaptation
+  - Semantic Segmentation
+  - Adversarial Training
   - Machine Learning Algorithms 
   - Math and Statistics
 - 📫 How to reach me: 
