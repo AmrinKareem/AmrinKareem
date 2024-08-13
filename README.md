@@ -1,12 +1,5 @@
 ### Hi there 👋
 🌱 I’m an AI research student at Mohamed bin Zayed University of Artificial Intelligence. 
-- 💬 Ask me about:
-  - Recommendation Systems 
-  - Domain Adaptation
-  - Semantic Segmentation
-  - Adversarial Training
-  - Machine Learning Algorithms 
-  - Math and Statistics
 - 📫 How to reach me: 
   - Email: kareemamrin9@gmail.com
 <!--
